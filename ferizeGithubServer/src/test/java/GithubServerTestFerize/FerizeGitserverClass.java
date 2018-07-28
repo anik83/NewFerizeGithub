@@ -10,7 +10,9 @@ public class FerizeGitserverClass {
 		
 		
 		System.out.println("Hello GitHub World!!!");
-			
+		
+		System.out.println("Hello GitHub World2!!!");
+		System.out.println("Hello GitHub World3!!!");	
 
 
 	}
